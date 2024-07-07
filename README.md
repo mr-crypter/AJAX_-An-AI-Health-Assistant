@@ -20,14 +20,6 @@ AJAX is an AI-powered health assistant designed to provide personalized health r
   
 - **JavaScript and AJAX:** Frontend interactivity and dynamic content loading.
 
-## Installation
-
-To run AJAX locally, follow these steps:
-
- Clone the repository:
-   ```bash
-   git clone https://github.com/mr-crypter/AJAX_-An-AI-Health-Assistant.git
-   cd AJAX_-An-AI-Health-Assistant
 
 Project Structure
 
