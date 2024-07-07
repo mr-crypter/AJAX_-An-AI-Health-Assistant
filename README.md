@@ -63,12 +63,3 @@ AJAX_An_AI_Health_Assistant/
 └── app.py
 <br />### Visit the AJAX Health Assistant Web App
 <br />Explore the live deployment of AJAX: [https://ajaxhealthapp.streamlit.app/](https://ajaxhealthapp.streamlit.app/)
-
-<br />This project includes a Flask-based backend, a SQLite database for user data, and JavaScript for frontend interactivity.
-
-
-
-├── requirements.txt
-├── LICENSE
-├── README.md
-└── app.py
