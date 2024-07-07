@@ -29,7 +29,6 @@ To run AJAX locally, follow these steps:
    git clone https://github.com/mr-crypter/AJAX_-An-AI-Health-Assistant.git
    cd AJAX_-An-AI-Health-Assistant
 AJAX_An_AI_Health_Assistant/
-│
 ├── app/
 │   ├── static/
 │   │   ├── css/
@@ -44,19 +43,21 @@ AJAX_An_AI_Health_Assistant/
 │   ├── models.py
 │   ├── routes.py
 │   └── config.py
-│
 ├── docs/
 │   ├── design_docs/
 │   │   └── ...
 │   ├── user_docs/
 │   │   └── README.md
 │   └── ...
-│
 ├── tests/
 │   ├── test_ai_logic.py
 │   ├── test_routes.py
 │   └── ...
-│
+├── requirements.txt
+├── LICENSE
+├── README.md
+└── app.py
+
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
