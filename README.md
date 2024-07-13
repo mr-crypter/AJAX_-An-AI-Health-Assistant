@@ -24,45 +24,42 @@ AJAX is an AI-powered health assistant designed to provide personalized health r
 
 To run AJAX locally, follow these steps:
 
- Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/mr-crypter/AJAX_-An-AI-Health-Assistant.git
    cd AJAX_-An-AI-Health-Assistant
-
-Project Structure
-
-
 AJAX_An_AI_Health_Assistant/
-│
-├── app/
-│   ├── static/
-│   │   ├── css/
-│   │   │   └── style.css
-│   │   └── js/
-│   │       └── script.js
-│   ├── templates/
-│   │   ├── index.html
-│   │   └── ...
-│   ├── __init__.py
-│   ├── ai_logic.py
-│   ├── models.py
-│   ├── routes.py
-│   └── config.py
-│
-├── docs/
-│   ├── design_docs/
-│   │   └── ...
-│   ├── user_docs/
-│   │   └── README.md
-│   └── ...
-│
-├── tests/
-│   ├── test_ai_logic.py
-│   ├── test_routes.py
-│   └── ...
-│
-├── requirements.txt
-├── LICENSE
-├── README.md
-└── app.py
-
+<br />├── app/
+<br />│   ├── static/
+<br />│   │   ├── css/
+<br />│   │   │   └── style.css
+<br />│   │   └── js/
+<br />│   │       └── script.js
+<br />│   ├── templates/
+<br />│   │   ├── index.html
+<br />│   │   └── ...
+<br />│   ├── __init__.py
+<br />│   ├── ai_logic.py
+<br />│   ├── models.py
+<br />│   ├── routes.py
+<br />│   └── config.py
+<br />├── docs/
+<br />│   ├── design_docs/
+<br />│   │   └── ...
+<br />│   ├── user_docs/
+<br />│   │   └── README.md
+<br />│   └── ...
+<br />├── tests/
+<br />│   ├── test_ai_logic.py
+<br />│   ├── test_routes.py
+<br />│   └── ...
+<br />├── requirements.txt
+<br />├── LICENSE
+<br />├── README.md
+<br />└── app.py
+<br />─ requirements.txt
+<br />├── LICENSE
+<br />├── README.md
+<br />└── app.py
+<br />### Visit the AJAX Health Assistant Web App
+<br />Explore the live deployment of AJAX: [https://ajaxhealthapp.streamlit.app/](https://ajaxhealthapp.streamlit.app/)
