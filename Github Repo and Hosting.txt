@@ -1,2 +1,0 @@
-Github Link- https://github.com/kanhaiya-agrawall/AJAX_health
-Website Link- https://ajaxhealthapp.streamlit.app/
